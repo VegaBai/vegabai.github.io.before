@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://vegabai.github.io/icon57.png</string>
+					<string>https://vegabai.github.io/unitychan57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://vegabai.github.io/icon512.png</string>
+					<string>https://vegabai.github.io/unitychan512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
